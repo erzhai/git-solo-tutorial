@@ -1,1 +1,1 @@
-Git Solo Tutorial - Eric Zhai
+Git Solo Tutorial - Eric Zhai - Winter 2024
